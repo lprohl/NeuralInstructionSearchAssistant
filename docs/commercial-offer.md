@@ -167,14 +167,8 @@
 **Настройка нейроассистента:**
 ![Настройки асистента](../screenshots/assistant-settings.png)
 
-**Архитектура решения:**
-![Схема ассистента по поиску инструкций](../screenshots/neural-assistant-scheme.png)
-
-
 **Автоматическая генерация FAQ:**
 ![Интерфейс пользователя](../screenshots/faq-generation.png)
-![Схема работы ассистента](../screenshots/faq-generation-scheme.png)
-
 
 ---
 
