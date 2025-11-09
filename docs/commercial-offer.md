@@ -162,18 +162,18 @@
 ### Посмотрите систему в действии
 
 **Интерфейс чата с результатами поиска:**
-![Интерфейс чата](screenshots/chat-interface.png)
+![Интерфейс чата](../screenshots/chat-interface.png)
 
 **Настройка нейроассистента:**
-![Настройки асистента](screenshots/assistant-settings.png)
+![Настройки асистента](../screenshots/assistant-settings.png)
 
 **Архитектура решения:**
-![Схема ассистента по поиску инструкций](screenshots/neural-assistant-scheme.png)
+![Схема ассистента по поиску инструкций](../screenshots/neural-assistant-scheme.png)
 
 
 **Автоматическая генерация FAQ:**
-![Интерфейс пользователя](screenshots/faq-generation.png)
-![Схема работы ассистента](screenshots/faq-generation-scheme.png)
+![Интерфейс пользователя](../screenshots/faq-generation.png)
+![Схема работы ассистента](../screenshots/faq-generation-scheme.png)
 
 
 ---
